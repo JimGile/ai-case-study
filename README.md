@@ -10,13 +10,13 @@ DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH - Module 1 Challenge (May 12, 2024)
     * 800 West El Camino Real Suite 180
     * Mountain View, CA 94040 United States
 * Founded: 
-    * **May 2023**
+    * May 2023
 * Founder: 
     * **[Rishi Singh](https://www.linkedin.com/in/rishi-singh-harness/)**
 * Website: 
     * **[sapient.ai](https://www.sapient.ai)**
 * Funding: 
-    * **Seed, US$ 5M**
+    * Seed, US$ 5M
 * Idea: 
     * Help developers succeed in their ever increasing QA role as the phenomenon of "shift-left" continues to grow.
 
@@ -26,7 +26,7 @@ DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH - Module 1 Challenge (May 12, 2024)
 * Problem Statement:
     * Companies are starting to implment a "shift-left" mentality by moving more QA responsibilities over to developers in order to catch and fix bugs earlier in the software development life cycle (SDLC). 
     * Developers are spending more time on unit testing to meet code coverage and code quality standards which leaves less time to implement and deliver desired functionality.
-    * "For every line of code you write, you can write 2-10x more code in unit tests. Let that sink in. There is no question why development teams rarely hit 70% coverage in unit testing, let alone 100%. That's not sustainable for any business..." [-Rishi Singh](https://www.linkedin.com/feed/update/urn:li:activity:7193717477770498048/)
+    * > "For every line of code you write, you can write 2-10x more code in unit tests. Let that sink in. There is no question why development teams rarely hit 70% coverage in unit testing, let alone 100%. That's not sustainable for any business..." [-Rishi Singh](https://www.linkedin.com/feed/update/urn:li:activity:7193717477770498048/)
 
 * Intended Customers: 
     * Companies that develop custom software.
@@ -41,7 +41,7 @@ DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH - Module 1 Challenge (May 12, 2024)
 
 * Solution: Source [sapient.ai/blog](https://www.sapient.ai/blog/sapientai-secures-5-million-and-launches-industrys-first-generative-ai-powered-test-coder-with-contextual-insights-and-code-intelligence
 ) 
-    * "SapientAI is the creator of AI Test Coder, the only platform to combine contextual insights, code intelligence and generative AI to write valid test code within complex environments automatically. It manages the entire test spectrum and runs quality-ensuring tests without requiring the developer to write a single line of test code. AI Test Coder enables developers to do what they do best, maximizing productivity and business value."
+    * > "SapientAI is the creator of AI Test Coder, the only platform to combine contextual insights, code intelligence and generative AI to write valid test code within complex environments automatically. It manages the entire test spectrum and runs quality-ensuring tests without requiring the developer to write a single line of test code. AI Test Coder enables developers to do what they do best, maximizing productivity and business value."
 
 * Technologies: Source [sapient.ai/research](https://www.sapient.ai/research)
     * Machine Learning (ML): Supervised and unsupervised training on new and existing source code to identify bugs, vulnerabilities, code quality/performance issues, and code execution paths.
@@ -107,7 +107,7 @@ DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH - Module 1 Challenge (May 12, 2024)
 ## Recommendations
 
 * Focus on refactoring legacy code by generating new code with an emphasis on quality, security, maintainablility, portability, and deployability to address Technology Debt.
-    * "In fact, 86% of companies report being impacted by tech debt, according to a 2023 survey by Foundry. Executives surveyed listed the reliance on siloed, legacy systems and processes as the top IT roadblocks. Additionally, 43% of those surveyed say that tech debt impedes their ability to innovate. Nov 21, 2023". [apriori.com](https://www.apriori.com/blog/how-to-overcome-technical-debt-and-drive-process-optimization/#:~:text=In%20fact%2C%2086%25%20of%20companies,impedes%20their%20ability%20to%20innovate.) 
+    * > "In fact, 86% of companies report being impacted by tech debt, according to a 2023 survey by Foundry. Executives surveyed listed the reliance on siloed, legacy systems and processes as the top IT roadblocks. Additionally, 43% of those surveyed say that tech debt impedes their ability to innovate. Nov 21, 2023". [- apriori.com](https://www.apriori.com/blog/how-to-overcome-technical-debt-and-drive-process-optimization/#:~:text=In%20fact%2C%2086%25%20of%20companies,impedes%20their%20ability%20to%20innovate.) 
     * These companies are running mission critical processes on out dated, legacy codebases that can't be deployed to modern scalable cloud architectures.
     * Having comprehensive unit tests with good code coverage is good in and of itself but, more importantly, it is the basis for reliably refactoring and modernizing legacy code.
     * A product that can determine the intent of existing functionality with comprehensive unit tests; generate new, modern, robust, and efficient code based off of that exisitng functionality; and generate new unit tests to ensure that the old and new code have equivelent functionality would be a game changer.
