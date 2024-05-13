@@ -32,18 +32,18 @@ DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH - Module 1 Challenge (May 12, 2024)
     * Companies that develop custom software.
     * Software developers
 
-* Market Size: Sources [grandviewresearch.com](https://www.grandviewresearch.com/industry-analysis/custom-software-development-market-report),  [devtechnosys.com](https://devtechnosys.com/insights/custom-software-development-market-trends/) 
+* Market Size: -Sources [grandviewresearch.com](https://www.grandviewresearch.com/industry-analysis/custom-software-development-market-report) and  [devtechnosys.com](https://devtechnosys.com/insights/custom-software-development-market-trends/) 
     * The global custom software development market size was valued at USD 29.29 billion in 2022 and is expected to expand at a compound annual growth rate (CAGR) of 22.4% from 2023 to 2030.
     * The large enterprises segment accounted for the largest market share of over 54% in 2022. Many large corporations rely on custom software for competitive advantage.
     * The cloud deployment segment accounted for the largest revenue share of over 55% in 2022.
     * By 2024, there will be 28.7 million software developers working worldwide.
     * The most popular tool for overseeing software development projects is Jira.
 
-* Solution: Source [sapient.ai/blog](https://www.sapient.ai/blog/sapientai-secures-5-million-and-launches-industrys-first-generative-ai-powered-test-coder-with-contextual-insights-and-code-intelligence
+* Solution: -Source [sapient.ai/blog](https://www.sapient.ai/blog/sapientai-secures-5-million-and-launches-industrys-first-generative-ai-powered-test-coder-with-contextual-insights-and-code-intelligence
 ) 
     * > "SapientAI is the creator of AI Test Coder, the only platform to combine contextual insights, code intelligence and generative AI to write valid test code within complex environments automatically. It manages the entire test spectrum and runs quality-ensuring tests without requiring the developer to write a single line of test code. AI Test Coder enables developers to do what they do best, maximizing productivity and business value."
 
-* Technologies: Source [sapient.ai/research](https://www.sapient.ai/research)
+* Technologies: -Source [sapient.ai/research](https://www.sapient.ai/research)
     * Machine Learning (ML): Supervised and unsupervised training on new and existing source code to identify bugs, vulnerabilities, code quality/performance issues, and code execution paths.
     * Artificial Intelegence (AI): Sapient uses AI to add deeper analysis and contextual understanding of source code to help generate test code based on the desired outcomes of the developer.
     * Sapient proactively monitors changes to a codebase, autonomously detecting whether unit tests are required for new or altered code, and automatically generats new tests as needed.
@@ -108,7 +108,7 @@ DU-VIRT-AI-PT-05-2024-U-LOLC-MWTH - Module 1 Challenge (May 12, 2024)
 
 * Focus on refactoring legacy code by generating new code with an emphasis on quality, security, maintainablility, portability, and deployability to address Technology Debt.
     * > "In fact, 86% of companies report being impacted by tech debt, according to a 2023 survey by Foundry. Executives surveyed listed the reliance on siloed, legacy systems and processes as the top IT roadblocks. Additionally, 43% of those surveyed say that tech debt impedes their ability to innovate. Nov 21, 2023". [- apriori.com](https://www.apriori.com/blog/how-to-overcome-technical-debt-and-drive-process-optimization/#:~:text=In%20fact%2C%2086%25%20of%20companies,impedes%20their%20ability%20to%20innovate.) 
-    * These companies are running mission critical processes on out dated, legacy codebases that can't be deployed to modern scalable cloud architectures.
+    * These companies are running mission critical processes on out dated, legacy codebases that can't be deployed to modern, scalable cloud architectures.
     * Having comprehensive unit tests with good code coverage is good in and of itself but, more importantly, it is the basis for reliably refactoring and modernizing legacy code.
     * A product that can determine the intent of existing functionality with comprehensive unit tests; generate new, modern, robust, and efficient code based off of that exisitng functionality; and generate new unit tests to ensure that the old and new code have equivelent functionality would be a game changer.
 
